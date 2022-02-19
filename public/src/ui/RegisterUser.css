@@ -1,0 +1,12 @@
+.txt-register {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 0.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 0.1rem solid #fff;
+  padding-top: 1rem;
+}
+
+.txt-register:hover {
+  color: rgb(35, 160, 197);
+}
